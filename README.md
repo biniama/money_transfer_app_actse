@@ -2,6 +2,12 @@
 
 Money Transfer App for ACT SE class
 
+![ScreenShot1](/screenshots/ScreenShot1.png "ScreenShot1")
+![ScreenShot2](/screenshots/ScreenShot2.png "ScreenShot2")
+![ScreenShot3](/screenshots/ScreenShot3.png "ScreenShot3")
+![ScreenShot4](/screenshots/ScreenShot4.png "ScreenShot4")
+![ScreenShot_iPhone13](/screenshots/ScreenShot_iPhone13.png "ScreenShot_iPhone13")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
